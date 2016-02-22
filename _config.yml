@@ -1,0 +1,38 @@
+# Site settings
+title: >
+  Marc de Krosse
+email: marcdekrosse@hotmail.com
+info: >
+  Sinds 1988 ben ik werkzaam bij Vera, een poppodium in Groningen (zie ook <a href="http://www.vera-groningen.nl/photos/photographers/marc-de-krosse" target=""Vera site), waar voornamelijk alternatieve bands optreden. Vanaf 2001 is er op georganiseerde basis een fotogroep aan het werk en ik ben daar concertfotograaf vanaf het prille begin. Doel van de fotogroep is om elk concert te registreren en de foto�s op de Vera site te plaatsen. Leuk voor bezoekers van het concert zelf, de bands en het archief van Vera. Enkele bands, voor zover ik weet, hebben foto�s van mij gebruikt voor hun cd�s of singles. Zie de onderstaande gallery. Ook komen de foto�s vaak terug op de website van de bands of andere muzieksites. Voor voorbeelden zie publicaties.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+twitter_username: ---
+github_username:  ---
+keywords: Foto, concert, marc, de, krosse, informatica, Ralph, Sikosek, Tom, Groenewegen, Mark, Eling
+
+# Build settings
+markdown: kramdown
+
+# Social
+links:
+    twitter:
+    facebook: marc.dekrosse
+    instagram: 
+    github:
+    pinterest:
+    youtube: looptoprolletjes
+    linkedin:
+    flickr:
+    email: marcdekrosse@hotmail.com
+    dropbox:
+
+# Agenda script form factor as follows:
+# - date: event date
+# - event: event description
+agenda:
+  - date: 27 februari 2016
+    event: MyDearestDera + Eva Waterbolk (Vera Downstage)
+  - date: 5 maart 2016
+    event: Icky Pack (Vera Downstage)
+  - date: 11 maart 2016
+    event: Birth of Joy + The Mysterons (Vera Grote zaal)
